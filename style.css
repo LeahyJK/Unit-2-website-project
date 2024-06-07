@@ -1,6 +1,15 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
-    color: white;
+    width: 840px;
+    background-image: url(Shattered_Plains.jpg);
     padding: 128px 16px;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.Kaladin {
+    width: 100px;
 }
