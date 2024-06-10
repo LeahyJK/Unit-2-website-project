@@ -10,6 +10,7 @@ header {
 
 .section{
     font-size: 20px;
+    color: #700fd2;
 }
 
 body{
@@ -20,13 +21,14 @@ body{
     margin: 5px;
     padding: 5px;
     border: 2px solid black;
-    background: white;
+    background: bisque;
     display: flex;
     justify-content: space-evenly;
 }
 
-.Kaladin {
+.portrait {
     width: 150px;
+    height: 150px;
 }
 
 .button{
@@ -42,6 +44,18 @@ body{
     border: 2px solid #383838;
 }
 
-.about-paragraph{
+.paragraph{
     font-size: 15px;
+}
+
+.narrators{
+    display: flex;
+    justify-content: space-between;
+}
+
+.landscapes{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 110px;
 }
