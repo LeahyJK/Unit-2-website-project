@@ -72,3 +72,9 @@ body{
     background-color: white;
     border:2px solid white;
 }
+
+.landscapes{
+    width: 350spx;
+    height: 170px;
+    justify-content: center;
+}
