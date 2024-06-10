@@ -27,8 +27,8 @@ body{
 }
 
 .portrait {
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 170px;
 }
 
 .button{
@@ -49,13 +49,10 @@ body{
 }
 
 .narrators{
-    display: flex;
-    justify-content: space-between;
+    color: #700fd2;
 }
 
-.landscapes{
-    display: flex;
-    justify-content: space-between;
-    width: 200px;
-    height: 110px;
+.images{
+    color: #700fd2;
+    width: 250px;
 }
